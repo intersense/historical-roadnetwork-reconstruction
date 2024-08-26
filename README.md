@@ -2,7 +2,7 @@
 
 The code and data for the DH 2024 paper "Road Network Reconstruction Based on Place Name Extraction in Classical Chinese Texts with LLMs"
 
-
+![](https://github.com/intersense/historical-roadnetwork-reconstruction/blob/main/images/jiangxi-prompts.png)
 
 ## Place names extraction from historical texts with LLMs
 
